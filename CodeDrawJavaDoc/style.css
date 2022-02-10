@@ -73,7 +73,7 @@ body {
 	font-size: 30px;
 }
 
-.version-selection > p {
+.version-selection > h1 {
 	margin: 30px 0px;
 }
 
@@ -100,6 +100,7 @@ body {
 	background-color: gray;
 }
 
-.small-link {
+.version-selection > p {
+	margin: 30px 0px;
 	font-size: 20px;
 }
